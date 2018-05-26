@@ -1,0 +1,44 @@
+PODS:
+  - Alamofire (4.7.2)
+  - Himotoki (3.2.0)
+  - Kingfisher (4.8.0)
+  - ObjcExceptionBridging (1.0.1):
+    - ObjcExceptionBridging/ObjcExceptionBridging (= 1.0.1)
+  - ObjcExceptionBridging/ObjcExceptionBridging (1.0.1)
+  - RSLoadingView (1.1.2)
+  - XCGLogger (6.0.2):
+    - XCGLogger/Core (= 6.0.2)
+  - XCGLogger/Core (6.0.2):
+    - ObjcExceptionBridging
+  - YouTubePlayer (0.4.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.7)
+  - Himotoki (~> 3.1)
+  - Kingfisher (~> 4.0)
+  - RSLoadingView
+  - XCGLogger (~> 6.0.2)
+  - YouTubePlayer
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - Himotoki
+    - Kingfisher
+    - ObjcExceptionBridging
+    - RSLoadingView
+    - XCGLogger
+    - YouTubePlayer
+
+SPEC CHECKSUMS:
+  Alamofire: e4fa87002c137ba2d8d634d2c51fabcda0d5c223
+  Himotoki: 2618fc6b939ad6d9b71c52c90fe210f54ea28167
+  Kingfisher: 976d828df2b24834c6a3f2fc4d82cdbd26552be1
+  ObjcExceptionBridging: c30e00eb3700467e695faeea30e26e18bd445001
+  RSLoadingView: fdfeee9968b6dad2559169a97da0ad2580371f3a
+  XCGLogger: c9601cae9a8912de34a58666ba931ed3d624dd31
+  YouTubePlayer: 028451f6772f372d4759866db99824c676ac1473
+
+PODFILE CHECKSUM: b802efb8f688ff7bf15ed8f31dfb2710a342fde0
+
+COCOAPODS: 1.5.2
