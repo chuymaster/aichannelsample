@@ -52,11 +52,11 @@ Youtube Data APIを使って[「A.I.Channel」](https://www.youtube.com/channel/
 Screenshots
 ------------------------------------
 - プレイリスト一覧
-![プレイリスト一覧](images/Screen Shot 2018-05-26 at 20.54.46.png)
+![プレイリスト一覧](images/01.png)
 - 動画一覧
-![動画一覧](images/Screen Shot 2018-05-26 at 20.54.56.png)
+![動画一覧](images/02.png)
 - 動画詳細＆プレイヤー
-![動画詳細＆プレイヤー](images/Screen Shot 2018-05-26 at 20.55.30.png)
+![動画詳細＆プレイヤー](images/03.png)
 
 その他
 ----
