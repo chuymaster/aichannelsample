@@ -49,6 +49,14 @@ Youtube Data APIを使って[「A.I.Channel」](https://www.youtube.com/channel/
   1. [playlistItems](https://developers.google.com/youtube/v3/docs/playlistItems/list)
 
 
+Screenshots
+------------------------------------
+- プレイリスト一覧
+![プレイリスト一覧](images/Screen Shot 2018-05-26 at 20.54.46.png)
+- 動画一覧
+![動画一覧](images/Screen Shot 2018-05-26 at 20.54.56.png)
+- 動画詳細＆プレイヤー
+![動画詳細＆プレイヤー](images/Screen Shot 2018-05-26 at 20.55.30.png)
 
 その他
 ----
